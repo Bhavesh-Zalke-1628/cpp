@@ -9,7 +9,6 @@ main()
     scanf("%d", &cp);
     printf("Enter  selling price :");
     scanf("%d", &sp);
-
     if (cp < sp)
     {
         printf("Profit");
